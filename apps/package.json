@@ -1,0 +1,9 @@
+{
+  "name": "compilo-learn-apps",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix .. run dev",
+    "build": "npm --prefix .. run build",
+    "test": "npm --prefix .. run test"
+  }
+}
